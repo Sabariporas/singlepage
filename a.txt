@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 sasaty
 
+=======
+read me
+
+example
+>>>>>>> master
